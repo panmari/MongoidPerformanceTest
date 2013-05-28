@@ -2,7 +2,9 @@
 
 This little test app compares the time used for creating/retreiving records.
 
-## Results for n = 1
+## Results 
+
+For n = 1
 
 ```
 Started
