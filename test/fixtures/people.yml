@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+Jack:
+  name: Jack Sparrow
+  id: 1
+  job: Captain
+  description: Mightiest pirate of the seven seas
+
+John:
+  name: John Doe
+  id: 2
+  job: None
+  description: Unknown
