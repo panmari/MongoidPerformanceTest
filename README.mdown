@@ -30,6 +30,16 @@ Finished in 61.863537914 seconds.
 0% passed
 ```
 
+### Used versions
+
+* mongoid (3.1.4)
+
+* mongo (1.8.6)
+
+* rails (3.2.13)
+
+* ruby 1.9.3p286
+
 ## Disclaimer
 
 This only tests very simple stuff on an empty database. Things might change for more complex queries and/or less sparse databases. 
